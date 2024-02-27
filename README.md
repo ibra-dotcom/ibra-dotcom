@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibra-dotcom
 - 👀 I’m interested in Python, AI, Azure, Go
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Phython and Resful APIs in Go
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on Python and AI projects 
 - 📫 How to reach me ...
 
 <!---
