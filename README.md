@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibra-dotcom
+- 👋 Hi, I’m @ibra
 - 👀 I’m interested in Python, AI, Azure, Go
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on Python and AI projects 
