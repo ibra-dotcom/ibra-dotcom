@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibra
 - 👀 I’m interested in Python, AI, Azure, Go
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on Python and AI projects 
+- 🌱 I’m currently learning  machine/deep learning 
+- 💞️ I’m looking to collaborate on Python, AI projects, and other projects 
 - 📫 How to reach me ...
 
 <!---
