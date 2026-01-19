@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ibra
-- 👀 I’m interested in Python, AI, Azure, and Quantum computing
-- 🌱 I’m currently learning  machine/deep learning 
-- 💞️ I’m looking to collaborate on Python, AI projects, and other projects 
-- 📫 How to reach me ...
+## Ibra | AI Engineer
 
-<!---
-ibra-dotcom/ibra-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building ML systems for real-world applications. Currently focused on NLP and agent evaluation.
+
+**Featured Work:**
+- 🏦 [banking77-intent-classifier](link) — Multi-class intent classification for banking queries (BERT, 90%+ accuracy)
+- 🏥 [AI-in-Healthcare](link) — [brief description]
+- 🔧 [agent-eval-framework](link) — Benchmarking suite for conversational AI agents
+
+**Background:** MS in Computer Science • TPM at Microsoft (Copilot Studio) • Previously built EHR systems at Ontario Ministry of Health
+
+**Tech:** Python • PyTorch • Keras • Transformers • Azure ML
+
