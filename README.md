@@ -10,6 +10,8 @@ I build machine learning systems, with a focus on NLP and conversational AI. Cur
 
 🏦 **[banking77-intent-classifier](https://github.com/ibra-dotcom/banking77-intent-classifier)** — Multi-class intent classification for banking customer queries using transformer models
 
+🧠 **[agent-eval-framework](https://github.com/ibra-dotcom/agent-eval-framework)** — Evaluation framework for conversational AI agents with trust & safety focus.
+
 🔧 **[task-tracker](https://github.com/ibra-dotcom/task-tracker)** — Python CLI for task management with persistent storage
 
 🧠 **[Deep-Learning](https://github.com/ibra-dotcom/Deep-Learning)** — Neural network implementations and experiments
